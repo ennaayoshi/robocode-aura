@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C85BD&center=true&vCenter=true&width=435&lines=Processos+de+Prototipagem+do+Robô;Desenvolvimento+RoboC0de" alt="Typing SVG" />
 </p>
 
-<h2 align="center">
+<h2>
   - Referências de Análise Essenciais - 
 </h2>
 
