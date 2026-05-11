@@ -22,9 +22,9 @@
   ➾ <a href = "https://robowiki.net/wiki/Robocode/Downloading_Robots"> Robocode - Exemplos Práticos de Estudo </a>
 </p>
 
-<center>
+<div align = "center">
 <img width = "130" src = "https://github.com/ennaayoshi/robocode-aura/blob/main/tanqueFofo.img.png?raw=true">
-</center>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00569D&height=140&section=footer"/>
