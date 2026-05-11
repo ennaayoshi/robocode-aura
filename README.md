@@ -18,6 +18,7 @@
 
 <p align = "center">
   ➾ <a href = "https://book.robocode.dev/introduction/what-is-robocode.html"> The Book of Robocode </a>
+  <br> </br>
   ➾ <a href = "https://robowiki.net/wiki/Robocode/Downloading_Robots"> Robocode - Exemplos Práticos de Estudo </a>
 </p>
 
